@@ -4,12 +4,6 @@ using System.Text.RegularExpressions;
 using System.Drawing;
 using System.Collections.Generic;
 
-//TO DO LIST::
-// 1- images for 0 - 9 & . & (SPACE)
-// 2- cut the numbers
-// 3- Read Method
-// 4- 
-
 namespace ConsoleApplication7
 {
     class Program
