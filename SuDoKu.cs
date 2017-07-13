@@ -22,9 +22,6 @@ namespace SuDoKu
 
         static void Main(string[] args)
         {
-            //2D board
-
-
             //Input new board
             /*
             Console.WriteLine("Enter the sudoku board from left to right up to down (for empty enter 0): ");
